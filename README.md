@@ -1,4 +1,4 @@
-android-in-hand
-===============
+in-hand-sw
+==========
 
-Control device Android development repository
+Control device software development repository
